@@ -1,0 +1,4 @@
+odd num: 
+1 3 5 
+even num: 
+2 4 
